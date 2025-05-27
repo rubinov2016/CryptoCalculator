@@ -40,8 +40,9 @@ o	The program assumes that initial prices and holdings are inputted correctly, a
 •	Rate Limit for API Requests: The program fetches data from CoinGecko, which has a request limit. To avoid errors, we recommend take breaks between updates or wait at least 1-2 minutes before updating again.
 3.5 Troubleshooting:
 1.	If the program does not update prices:
+
 o	Ensure you have an active internet connection.
 o	Wait for a few moments if the rate limit is exceeded.
-2.	If incorrect results are displayed:
+3.	If incorrect results are displayed:
 o	Check if the initial prices and holdings are correctly entered.
 Ensure that the quantity and price values are valid and correctly formatted.
